@@ -11,7 +11,7 @@ I'm a web developer from Oslo, Norway <img src="https://cdn-icons-png.flaticon.c
 ![Sass](https://shields.io/badge/-Sass-gray?logo=sass&style=for-the-badge)
 ![Angular](https://shields.io/badge/-Angular-gray?logo=angular&style=for-the-badge)
 ![Firebase](https://shields.io/badge/-Firebase-gray?logo=firebase&style=for-the-badge)
-![RxJs](https://shields.io/badge/-RxJs-gray?logo=rxjs&style=for-the-badge)
+![RxJs](https://shields.io/badge/-RxJs-gray?logo=reactivex&style=for-the-badge)
 ![React](https://shields.io/badge/-React-gray?logo=react&style=for-the-badge)
 ![WordPress](https://shields.io/badge/-WordPress-gray?logo=wordpress&style=for-the-badge)
 ![GraphQL](https://shields.io/badge/-GraphQL-gray?logo=graphql&style=for-the-badge)
@@ -22,7 +22,7 @@ I'm a web developer from Oslo, Norway <img src="https://cdn-icons-png.flaticon.c
 An Angular/Firebase SaaS web app that combines user training, a CRM system, dynamic landing pages and a resource library. It's designed and tailored to a specific client and their partners. Get in touch if you're interested in learning more about it.
 
 ## Contact me
-Want to work together? Get in touch!
+Want to work with me? Get in touch!
 
 [![Email badge](https://shields.io/badge/-Email-white?logo=gmail)](mailto:mikkel@cleverly.no)
 [![Website badge](https://shields.io/badge/-Website-white?logo=html5)](https://cleverly.no)
