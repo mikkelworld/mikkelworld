@@ -1,7 +1,7 @@
 ![image](../main/assets/banner.png?raw=true)
 
 ## Welcome
-I'm a web developer from Oslo, Norway ![Norway](https://cdn-icons-png.flaticon.com/512/299/299542.png)
+I'm a web developer from Oslo, Norway <img src="https://cdn-icons-png.flaticon.com/512/299/299542.png" alt="Norwegian flag" width="13"/>
 
 ## Experience
 ![HTML5](https://shields.io/badge/-HTML5-gray?logo=html5&style=for-the-badge)
